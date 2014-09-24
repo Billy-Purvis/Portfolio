@@ -5,7 +5,7 @@ Portfolio
 #
 #
 #
-##Version 1.0
+##Version 1.0.1
 
 - Basic site structure completed
 
@@ -20,7 +20,7 @@ Portfolio
 #
 #
 #
-##Version 1.1
+##Version 1.0.1
 
 - 3D transform deg animations added to dics icons on hover, featuring text encouragement to follow 
   links on reverse side of relevant icons
@@ -34,7 +34,7 @@ Portfolio
 #
 #
 #
-##Version 1.2
+##Version 1.0.2
 
 - Responsive design corrected for iPhone, iPad, Nokia Lumia 920 and larger screens than usual
 
@@ -44,6 +44,12 @@ Portfolio
 #
 #
 #
-##Version 1.3
+##Version 1.0.3
+
+- Full support for Safari and Chrome added
+
+- Support exclusion for Disc P padding for Safari only
+
+
 
  

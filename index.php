@@ -34,7 +34,7 @@
 				<div class="back face">
 					<div class="works-preview-box">
 						<p>Go on, have a look!</p>
-						<i class="fa fa-arrow-circle-right fa-3x arrow-icon"></i>
+						<a target="_blank" href="https://github.com/Billy-Purvis"><i class="fa fa-arrow-circle-right fa-3x arrow-icon"></i></a>
 					</div>
 				</div>
 			</div></a>
@@ -42,7 +42,7 @@
 
 <!-- Preview card caption -->
 				<div class="works-preview-title">
-				<h2>Github</h2>
+				<a target="_blank" href="https://github.com/Billy-Purvis"><h2>Github</h2></a>
 				<div class="works-preview-text">
 					<p>Visit my Github page for more! Fork and make changes as you wish</p>
 				</div>
@@ -68,7 +68,7 @@
 				<div class="back face">
 					<div class="works-preview-box">
 						<p>Go on, have a poke!</p>
-						<i class="fa fa-arrow-circle-right fa-3x arrow-icon"></i>
+						<a target="_blank" href="http://codepen.io/Billy-Purvis/"><i class="fa fa-arrow-circle-right fa-3x arrow-icon"></i></a>
 					</div>
 				</div>
 			</div></a>
@@ -76,7 +76,7 @@
 
 <!-- Preview card caption -->
 				<div class="works-preview-title">
-				<h2>CodePen</h2>
+				<a target="_blank" href="http://codepen.io/Billy-Purvis/"><h2>CodePen</h2></a>
 				<div class="works-preview-text">
 					<p>Check out my work over on CodePen, it's your playground now!</p>
 				</div>
@@ -94,14 +94,14 @@
 
 				<div class="front face">
 					<div class="works-preview-box">
-						<i class="fa fa-twitter fa-5x icon"></i>
+						<a target="_blank" href="https://twitter.com/mrmonkeytech"><i class="fa fa-twitter fa-5x icon"></i></a>
 					</div>
 				</div>
 
 				<div class="back face">
 					<div class="works-preview-box">
 						<p>Follow me!</p>
-						<i class="fa fa-arrow-circle-right fa-3x arrow-icon"></i>
+						<a target="_blank" href="https://twitter.com/mrmonkeytech"><i class="fa fa-arrow-circle-right fa-3x arrow-icon"></i></a>
 					</div>
 				</div>
 			</div></a>
@@ -109,7 +109,7 @@
 
 <!-- Preview card caption -->
 				<div class="works-preview-title">
-				<h2>Tweet Tweet</h2>
+				<a target="_blank" href="https://twitter.com/mrmonkeytech"><h2>Tweet Tweet</h2></a>
 				<div class="works-preview-text">
 					<p>Follow me over at my Twitter <a href="https://twitter.com/mrmonkeytech">
 						@mrmonkeytech</a> & follow my progress & interact with me too!</p>
