@@ -1,0 +1,2 @@
+[18-Sep-2014 22:31:11 Europe/Berlin] PHP Warning:  include(/header.php): failed to open stream: No such file or directory in /home/purvisb/public_html/index.php on line 14
+[18-Sep-2014 22:31:11 Europe/Berlin] PHP Warning:  include(): Failed opening '/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/purvisb/public_html/index.php on line 14
