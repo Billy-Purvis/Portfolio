@@ -3,18 +3,18 @@
 <head>
 
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
 	<title>Billy Purvis - Web Designer in London</title>
-	<link rel="stylesheet" type="text/css" href="/bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap/bootstrap-3.2.0-dist/css/bootstrap.css">
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
-	<link rel="stylesheet" type="text/css" href="/css/mediaqueries.css">
+	<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+	<link rel="stylesheet" type="text/css" href="css/mediaqueries.css">
 	<link href='http://fonts.googleapis.com/css?family=Rajdhani' rel='stylesheet' type='text/css'>
 </head> 
 <body>
 <!-- You don't pick the code life, the code life picks you -->
 
-<?php include 'header.php'; ?>
+<a name="home"></a><?php include 'header.php'; ?>
 
 <!-- There's a special place in hell for developers -->	
 <div class="wrapper">
@@ -64,7 +64,7 @@
 						<i class="fa fa-codepen fa-5x icon"></i>
 					</div>
 				</div>
-
+<!-- Woo! You made it this far, it's a bit confusing, eh? -->
 				<div class="back face">
 					<div class="works-preview-box">
 						<p>Go on, have a poke!</p>
@@ -111,7 +111,7 @@
 				<div class="works-preview-title">
 				<a target="_blank" href="https://twitter.com/mrmonkeytech"><h2>Tweet Tweet</h2></a>
 				<div class="works-preview-text">
-					<p>Follow me over at my Twitter <a href="https://twitter.com/mrmonkeytech">
+					<p>Follow me over at my Twitter <a href="https://twitter.com/mrmonkeytech"
 						@mrmonkeytech</a> & follow my progress & interact with me too!</p>
 				</div>
 				</div>
@@ -143,22 +143,28 @@
 		   the coding life picks you ', and it did!</p> <p class="sub-para"> So Here I am! If you've got a job you think I'd suit, give me a holla!</p>
 		</div>
 	</div>
+
+		
 <hr class="page-break">
 <!--End of More Content -->
+<a href="#home"><div class="more-link">
+		<h4>Going up?</h4>
+		<i class="fa fa-arrow-circle-up fa-3x arrow-icon"></i>
+	</div></a>
 </div>
 
 <div class="contact-form-wrap">
 	<div class="contact-form">
 		<form method="post" action="index.php">
-        
-		    <label>Name</label>
-		    <input name="name" class="contact-name-box" placeholder="Type Here">
+        <?php include 'contact.php' ?>
+		    
+		    <input name="name" class="contact-name-box" placeholder="You got a name?">
 		            
-		    <label>Email</label>
-		    <input name="email" class="contact-email-box" type="email" placeholder="Type Here">
+		    
+		    <input name="email" class="contact-email-box" type="email" placeholder="Email?">
 		    <br>
-		    <label>Message</label>
-	    	<textarea name="message" class="contact-message-box" placeholder="Type Here"></textarea>
+		   
+	    	<textarea name="message" class="contact-message-box" placeholder="Intrigute me here"></textarea>
 	            
 	    	<input id="submit" name="submit" type="submit" value="Submit">
 	        
@@ -171,7 +177,8 @@
 </div>
 <div class="push"></div>
 <?php include 'footer.php'; ?>
-
+<!-- So, you made it all the way down here? That's great! I'm forced to work with WordPress, please
+	save me, SaveBilly.exe -->
 </body>
 
 

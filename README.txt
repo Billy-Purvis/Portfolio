@@ -50,3 +50,4 @@ Portfolio
 
 - Support exclusion for Disc P padding for Safari only
 
+- Contact form partially responsive for larger displays
