@@ -50,6 +50,3 @@ Portfolio
 
 - Support exclusion for Disc P padding for Safari only
 
-
-
- ###update
